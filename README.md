@@ -7,6 +7,14 @@
 
 ---
 
+## Patent Pending Notice (63/815,136 @ USPTO)
+
+**Patent Pending**: This invention is currently under a provisional patent application with the USPTO (Application No. 63/815,136). All rights are reserved pending patent approval. No implementation is currently available or authorized for commercial use. The presence of this specification in this public repository does not grant any rights or licenses to use, distribute, or modify the technology described herein.
+
+For questions regarding potential patent conflicts, please contact **raudzus@autiwire.de**.
+
+---
+
 ## 🧾 Title of the Invention
 
 **Pytant – Minimal Repository-Based System for AI-Supported Patentable Idea Development**
